@@ -9,7 +9,7 @@ export default function home() {
           <h5 className=" text-[#23A6F0] font-bold text-base tracking-[0.1px] w-[77px] h-[24px] text-center m-auto">
             Welcome
           </h5>
-          <h1 className=" text-[#ffffff] font-bold text-6xl tracking-wide leading-[80px] w-[542px] h-[160px] text-center m-auto">
+          <h1 className=" text-[#ffffff] font-bold text-6xl tracking-wide leading-[80px] w-[699px] h-[160px] text-center m-auto">
             Selling on the internet like a pro
           </h1>
           <h5 className=" font-normal text-xl text-[#ffffff] tracking-[0.2px] leading-[30px] w-[536px] h-[60px] text-center m-auto">
@@ -17,10 +17,10 @@ export default function home() {
             do not act that way.
           </h5>
           <div className="w-[365px] h-[52px] flex gap-2.5 m-auto">
-            <button className="w-[193px] h-[52px] rounded-[5px] text-14 font-bold py-[15px] px-9 bg-[#23A6F0] gap-2.5 text-[#ffffff] hover:bg-[#21658b] transition ease-in-out delay-150  duration-300">
+            <button className="w-[193px] h-[52px] rounded-[5px] text-sm font-bold py-[15px] px-9 bg-[#23A6F0] gap-2.5 text-[#ffffff] hover:bg-[#21658b] transition ease-in-out delay-150  duration-300">
               Get Quote Now
             </button>
-            <button className="w-[162px] h-[52px] rounded-[5px] py-[15px] px-9 bg-transparent gap-2.5 text-[#23A6F0] border-solid border-[1px] text-14 font-bold border-[#23A6F0] hover:bg-[#23A6F0] transition ease-in-out delay-150 hover:text-white duration-300">
+            <button className="w-[162px] h-[52px] rounded-[5px] py-[15px] px-9 bg-transparent gap-2.5 text-[#23A6F0] border-solid border-[1px] text-sm font-bold border-[#23A6F0] hover:bg-[#23A6F0] transition ease-in-out delay-150 hover:text-white duration-300">
               Learn More
             </button>
           </div>
